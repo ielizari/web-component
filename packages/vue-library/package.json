@@ -1,0 +1,25 @@
+{
+  "name": "vue-library",
+  "version": "0.0.1",
+  "description": "Web component vue wrapper",
+  "author": "ielizari <ielizari28@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "build": "npm run tsc",
+    "tsc": "tsc -p ."
+  },
+  "devDependencies": {
+    "vue": "^3.2.45"
+  }
+}
