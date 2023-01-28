@@ -2,12 +2,16 @@
   "dependencies": {
     "lerna": "^6.4.1"
   },
-  "name": "@ielizari/web-components-test",
+  "name": "@ielizari/web-component",
   "workspaces": [
     "packages/*"
   ],
   "devDependencies": {
     "@types/node": "^18.11.18",
     "typescript": "^4.9.4"
+  },
+  "repository": "https://github.com/ielizari/web-component.git",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   }
 }
