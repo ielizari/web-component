@@ -1,6 +1,6 @@
 {
-  "name": "vue-library",
-  "version": "0.0.1",
+  "name": "@ielizari/web-component",
+  "version": "0.0.2",
   "description": "Web component vue wrapper",
   "author": "ielizari <ielizari28@gmail.com>",
   "homepage": "",
