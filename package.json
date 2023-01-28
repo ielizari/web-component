@@ -2,7 +2,7 @@
   "dependencies": {
     "lerna": "^6.4.1"
   },
-  "name": "web-components-test",
+  "name": "@ielizari/web-components-test",
   "workspaces": [
     "packages/*"
   ],
